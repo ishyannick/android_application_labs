@@ -1,0 +1,12 @@
+*.iml
+.gradle/
+.idea/
+local.properties
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+app/build/
+app/google-services.json
+LEARNING_GUIDE.md
+README.md
